@@ -1,4 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2oQj7Fhy)
+
+<ins> I've learned new things here!</ins> : I've heard of Github but I wasn't really sure what it was used for. Now as I'm back to coding again, I realize that GitHub is useful. Like I've learned: 
+- That you can pull requests to make changes and get feedback
+- That when you clone, you can clone a repository to your local copy on your computer and then use Git to sync the two!
+- The use of Forking is very convenient and a cool feature!
+- Different ways to markdown things like **bolding words**, *italic*, even ~~strikethrough which is very very cool~~, even subscripting!<sup> it's so tiny </sup>
+
+To be honest, I'm still trying to understand all terms and their uses here in GitHub. I'm very new to this but I will get it down eventually! Definitely will see myself using this more frequently in the future since I found a way to store old and new code!
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
